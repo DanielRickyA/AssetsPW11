@@ -1,0 +1,11 @@
+.card-content{
+  background-color: none;
+  background: none;
+  border: none;
+  color: #d9c9ee;
+}
+
+img{
+    height: 400px;
+    object-fit: fill;
+}

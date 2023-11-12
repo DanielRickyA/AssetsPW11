@@ -1,0 +1,97 @@
+body{
+  /* background: linear-gradient(#27212e, #6d1ea9); */
+  background: #4b1a8b
+}
+
+
+.judul {
+  font-size: 4.8rem;
+  font-weight: 800;
+  /* Supaya Warna Textnya Gradient */
+  background-image: linear-gradient(to left, #922de6, #cabddc) !important;
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-fill-color: transparent;
+}
+
+.text {
+  font-size: 1.9rem;
+}
+
+/* Container Untuk landing Pge */
+.container-landing {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  min-width: 100%;
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #d9c9ee;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+.contentLandingPage {
+  height: 100%;
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+/* Custom Icon Untuk Landing Page */
+.iconGamePad,
+.iconGameConsole,
+.iconHealthPotion,
+.iconRocket {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+}
+
+.iconGamePad {
+  top: 30px;
+  right: 30px;
+  transform: rotate(45deg);
+}
+
+.iconGameConsole {
+  top: 30px;
+  left: 30px;
+}
+
+.iconHealthPotion {
+  bottom: 30px;
+  right: 30px;
+}
+.iconRocket {
+  bottom: 30px;
+  left: 30px;
+  transform: rotate(-90deg);
+}
+
+/* Container Untuk Content-Content dibawahnya */
+.container-content {
+  height: 100vh;
+  min-width: 100%;
+  width: 100vw;
+  text-align: center;
+  color: #d9c9ee;
+  margin-bottom: 70px;
+}
+
+/* Judul pada content setelah Landing Page */
+.judulContent{
+  padding-top: 100px;
+  font-size: 2.6rem;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+
+
+
