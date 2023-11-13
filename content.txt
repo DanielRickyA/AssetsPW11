@@ -1,0 +1,44 @@
+const content = [
+  {
+    title: "SPIDER-MAN 2",
+    image: Image.Poster1,
+    platform: "PlayStation 5",
+    release_date: "October 20, 2023",
+    genre: "Fighting game, Action-adventure game",
+  },
+  {
+    title: "ELDEN RING",
+    image: Image.Poster2,
+    platform: "PlayStation, Xbox, Microsoft Windows",
+    release_date: "February 25, 2022",
+    genre: "RPG, Dark Fantasy, Open World",
+  },
+  {
+    title: "It Takes Two",
+    image: Image.Poster3,
+    platform: "PlayStation, Xbox, Nitendo, Microsoft Windows",
+    release_date: "March 26, 2021",
+    genre: "Co-op, Multiplayer, Split Screen",
+  },
+  {
+    title: "The Legend of Zelda Breath of The Wild",
+    image: Image.Poster4,
+    platform: "Nitendo Switch, Wii U",
+    release_date: "March 3, 2017",
+    genre: " Action-adventure game, Puzzle Video Game",
+  },
+  {
+    title: "Super Mario Bros. Wonder",
+    image: Image.Poster5,
+    platform: "Nintendo Switch",
+    release_date: "October 20, 2023",
+    genre: "Platform game",
+  },
+  {
+    title: "Clash of Clans",
+    image: Image.Poster6,
+    platform: " Android, iOS",
+    release_date: "August 2, 2012",
+    genre: "Real-time strategy",
+  },
+];
