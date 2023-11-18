@@ -21,7 +21,7 @@
 /* ===== Scrollbar CSS ===== */
 
   /* Chrome, Edge, and Safari */
-  .cardBackgound::-webkit-scrollbar {
+  .cardBackground::-webkit-scrollbar {
     width: 16px;
   }
 
