@@ -1,4 +1,4 @@
-.cardBackgound {
+.cardBackground {
   padding: 1rem;
   margin: 2rem auto;
   width: 75rem;
@@ -25,11 +25,11 @@
     width: 16px;
   }
 
-  .cardBackgound::-webkit-scrollbar-track {
+  .cardBackground::-webkit-scrollbar-track {
     background: #ffffff;
   }
 
-  .cardBackgound::-webkit-scrollbar-thumb {
+  .cardBackground::-webkit-scrollbar-thumb {
     background-color: #8f54a0;
     border-radius: 10px;
     border: 3px solid #ffffff;
